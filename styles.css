@@ -1,0 +1,28 @@
+/* add your CSS here */
+.fact {
+  list-style-type: none;
+  font-style: italic;
+}
+
+.detail {
+  font-weight: bold;
+}
+
+.animal {
+  width: 300px;
+  -webkit-box-shadow: 3px 8px #ccc;
+  box-shadow: 0px 3px 8px #ccc;
+  border: 1px solid #ccc;
+  padding: 10px 5px 10px 5px;
+}
+
+.about {
+  border: 1px solid #ccc;
+  padding: 10px 5px 10px;
+}
+
+img {
+  padding:10px 0px 10px;
+  width: 300px;
+  height: 300px;
+}
