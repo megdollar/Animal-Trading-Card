@@ -1,6 +1,6 @@
 # Animal Trading Card
 
-This is my First CSS Project that I created to showcase HTML & CSS. This was a part of the Udacity Front-end Nanodegree.
+This is an animal playing card project that I created to showcase HTML & CSS. This was a part of the Udacity Front-end Nanodegree.
 
 ## Deployment
 
